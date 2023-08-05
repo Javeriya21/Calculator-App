@@ -14,6 +14,7 @@
 
 ![Screenshot (262)](https://user-images.githubusercontent.com/108418892/198830050-de77b8ec-50dd-4449-ae19-7ab04d5c2281.png)
 
+![Calculater](https://github.com/Javeriya21/Calculator-App/assets/108418892/d6de847d-6821-41c4-9bbc-0d9feff87fe1)
 
 # ScreenShot
 
